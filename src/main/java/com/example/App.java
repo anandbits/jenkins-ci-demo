@@ -9,6 +9,6 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Updated Code" );
-        System.out.println( "This is a new build triggered by Anand !" );
+        System.out.println( "This is a new build triggered by Anand  !" );
     }
 }
